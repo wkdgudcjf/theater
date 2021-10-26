@@ -1,0 +1,88 @@
+﻿Build started 2012-08-31 오후 3:05:13.
+     1>Project "C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\theater\theater.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\theater.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\theater.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt display.cpp game.cpp guest.cpp main.cpp mymovie.cpp mysnack.cpp myticket.cpp subcheck.cpp subTheater.cpp
+         subTheater.cpp
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\subtheater.cpp(417): warning C4101: 'j' : unreferenced local variable
+         subcheck.cpp
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\subcheck.cpp(5): warning C4101: 'i' : unreferenced local variable
+         myticket.cpp
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(320): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(342): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(364): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(390): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(412): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(434): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(460): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(482): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(504): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\myticket.cpp(543): warning C4018: '>' : signed/unsigned mismatch
+         mysnack.cpp
+         mymovie.cpp
+         main.cpp
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\main.cpp(11): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\main.cpp(7): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\main.cpp(9): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\main.cpp(7): warning C4101: 'j' : unreferenced local variable
+         guest.cpp
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(5): warning C4101: 'num' : unreferenced local variable
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(33): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(89): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(112): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(136): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(160): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(184): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(208): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(232): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(256): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(280): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(77): warning C4101: 'theaterRan' : unreferenced local variable
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\guest.cpp(78): warning C4101: 'timeRan' : unreferenced local variable
+         game.cpp
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\game.cpp(35): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         display.cpp
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\display.cpp(184): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\display.cpp(195): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\심규복\desktop\c 고급 & c++\theater\theater\theater\display.cpp(195): warning C4018: '<=' : signed/unsigned mismatch
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\theater.exe.embed.manifest.res" Debug\theater_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\Debug\theater.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\theater.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\Debug\theater.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\Debug\theater.lib" /MACHINE:X86 Debug\theater.exe.embed.manifest.res
+         Debug\display.obj
+         Debug\game.obj
+         Debug\guest.obj
+         Debug\main.obj
+         Debug\mymovie.obj
+         Debug\mysnack.obj
+         Debug\myticket.obj
+         Debug\subcheck.obj
+         Debug\subTheater.obj
+       Manifest:
+         Deleting file "Debug\theater.exe.embed.manifest".
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\theater.exe.embed.manifest" /manifest Debug\theater.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\theater.exe.embed.manifest.res" Debug\theater_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\Debug\theater.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\theater.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\Debug\theater.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\Debug\theater.lib" /MACHINE:X86 Debug\theater.exe.embed.manifest.res
+         Debug\display.obj
+         Debug\game.obj
+         Debug\guest.obj
+         Debug\main.obj
+         Debug\mymovie.obj
+         Debug\mysnack.obj
+         Debug\myticket.obj
+         Debug\subcheck.obj
+         Debug\subTheater.obj
+         theater.vcxproj -> C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\Debug\theater.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\theater.unsuccessfulbuild".
+         Touching "Debug\theater.lastbuildstate".
+     1>Done Building Project "C:\Users\심규복\Desktop\c 고급 & c++\theater\theater\theater\theater.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.76
